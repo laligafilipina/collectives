@@ -1,0 +1,10 @@
+browser.safebrowsing.downloads.enabled = false
+browser.safebrowsing.malware.enabled = false
+datareporting.healthreport.uploadEnabled = false
+media.eme.enabled = false
+browser.search.suggest.enabled = false
+media.peerconnection.enabled = false
+media.peerconnection.ice.default_address_only = true
+geo.enabled = false
+plugin.state.flash = 0
+

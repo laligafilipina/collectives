@@ -1,0 +1,15 @@
+::: Backup Vmware Solution  :::
+
+
+> For fresh installed backup avoiding read file system issue
+
+umount /dev/sda1 
+fsck /dev/sda1
+reboot
+
+
+> Full screen solution for vmware
+    + apt install open-vm-tools
+
+> vmware key license
+FA1M0-89YE3-081TQ-AFNX9-NKUC0

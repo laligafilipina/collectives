@@ -1,0 +1,53 @@
+!xterm font and locale
+xterm.locale:true
+xterm.utf8: true
+xterm*utf8Title:true
+xterm*fontMenu*fontdefault*Label:Default
+
+xterm*faceName:Menlo:antialias=true:pixelsize=11
+xterm*faceNameDoublesize:WenQuanYi Micro Hei Mono:pixelsize=13:antialias=true
+
+xterm*xftAntialias:true
+
+!true, CJK text column width of 2
+xterm*cjkWidth:true
+
+! Molokai theme
+! See: https://gist.github.com/vreon/845878
+xterm*background: #101010
+xterm*foreground: #d0d0d0
+xterm*cursorColor: #d0d0d0
+xterm*color0: #101010
+xterm*color1: #960050
+xterm*color2: #66aa11
+xterm*color3: #c47f2c
+xterm*color4: #30309b
+xterm*color5: #7e40a5
+xterm*color6: #3579a8
+xterm*color7: #9999aa
+xterm*color8: #303030
+xterm*color9: #ff0090
+xterm*color10: #80ff00
+xterm*color11: #ffba68
+xterm*color12: #5f5fee
+xterm*color13: #bb88dd
+xterm*color14: #4eb4fa
+xterm*color15: #d0d0d0
+ 
+!fix alt key for keyboard shortcuts
+!xterm*altSendsEscape:true
+
+!Scrolling, Shift+PageUp/Shift+PageDown, or the scrollbar
+xterm*saveLines: 4096
+xterm*scrollBar: true
+xterm*rightScrollBar: true
+
+
+!main windows size
+xterm*VT100.geometry: 80*32
+
+!mouse selection to copy, Ctrl-V, also Shift+Insert
+xterm*VT100.Translations: #override \
+	<Btn1Up>: select-end(CLIPBOARD,PRIMARY,CUT_BUFFER0) \n\
+Ctrl <KeyPress> V: insert-selection(CLIPBOARD,PRIMARY,CUT_BUFFER0)
+
