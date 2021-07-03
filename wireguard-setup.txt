@@ -1,0 +1,45 @@
+********************** ubuntu ********************** 
+$ apt install wireguard
+
+********************** fedora ********************** 
+$ sudo dnf install wireguard-tools
+
+********************** mageia ********************** 
+$ sudo urpmi wireguard-tools
+
+********************** arch ********************** 
+$ sudo pacman -S wireguard-tools
+
+********************** opensuse/sle **********************
+$ sudo zypper install wireguard-tools
+
+********************** slackware **********************
+$ for i in wireguard-linux-compat wireguard-tools; do wget https://slackbuilds.org/slackbuilds/14.2/network/$i.tar.gz && tar -xzf $i.tar.gz && cd $i && OUTPUT=$(pwd) ./$i.SlackBuild && sudo upgradepkg --install-new ./$i*.tgz && cd ..; done
+
+********************** alpine **********************
+$ apk add -U wireguard-tools
+
+********************** gentoo **********************
+$ emerge wireguard-tools
+
+********************** centos **********************
+Method 1: a signed module is available as built-in to CentOS's kernel-plus:
+
+$ sudo yum install yum-utils epel-release
+$ sudo yum-config-manager --setopt=centosplus.includepkgs="kernel-plus, kernel-plus-*" --setopt=centosplus.enabled=1 --save
+$ sudo sed -e 's/^DEFAULTKERNEL=kernel-core$/DEFAULTKERNEL=kernel-plus-core/' -i /etc/sysconfig/kernel
+$ sudo yum install kernel-plus wireguard-tools
+$ sudo reboot
+
+Method 2: the easiest way is via ELRepo's pre-built module:
+
+$ sudo yum install elrepo-release epel-release
+$ sudo yum install kmod-wireguard wireguard-tools
+
+Method 3: users running non-standard kernels may wish to use the DKMS package instead:
+
+$ sudo yum install epel-release
+$ sudo yum config-manager --set-enabled PowerTools
+$ sudo yum copr enable jdoss/wireguard
+$ sudo yum install wireguard-dkms wireguard-tools
+
