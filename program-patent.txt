@@ -1,0 +1,125 @@
+US PATENT PROGRAM RESEARCH 	
+
+PATENT NUMBER	DESCRIPTION OF PATENTS METHODS AND PROCEDURES
+
+DE102012009060A1	Method for influencing subconscious mind through audio suggestion for changing acquired behavior of user, involves inputting information tailored to changing behavior in acoustic device, and converting information into acoustic information.
+EP0429971A3	Method and apparatus to produce subliminal sound recording.
+EP2113063A1	Energy focusing system for active denial apparatus.
+US2860627A	Pattern photic simulator.
+US2995633A	Means for aiding hearing.
+US20020002464A1	System and method for a telephonic emotion detection that provides operator feedbacks.
+US20070084473A1	Method for incorporating brain wave entertainment into sound production.
+US20050079474A1	Emotional state modification method and system.
+US20070052536A1	Subliminal audio burglar deterrent
+US20080282817A1	Remote monitoring of fixed structures.
+US20090193344A1	Community mood representation.
+US20090257555A1	X-ray inspection trailer
+US20100021874A1	Inculcating positive altered personal behavioral patterns.
+US20100324415A1	Platform for detection of tissue structure change.
+US20120104282A1	Target tracking system and method with jitter reduction suitable for directed energy systems.
+US20120274147A1	Wireless energy transmission using near-field energy.
+US20130001422A1	Apparatus and method for monitoring the condition of a living subject.
+US20140309484A1	Method and system for brain entrainment.
+US20160375220A1	Method and maintain peace through electromagnetic energy targeted to the brain.
+US301447A	Hypnotic inducer.
+US3060795A	Apparatus for producing visual stimulation.
+US3278676A	Apparatus for producing visual and auditory stimulation
+US3393279A	Nervous system excitation device.
+US3563246A	Method and apparatus for improving neural performance in human subjects by electrotherapy
+US3566347A	Psycho-acoustic projector
+US3629521A	Hearing systems
+US3647970A	Method and system for simplifying speech waveforms.
+US3712292A	Method and apparatus for producing swept frequency-modulated audio signal patterns for inducing sleep.
+US3884218A	Method for inducing and maintaining various stages of sleep in human being.
+US3951134A	Apparatus and method for remotely monitoring and altering brain waves.
+US4124943A	Audio visual information system.
+US4315502A	Learning-relaxation device.
+US4395600A	Auditory subliminal message system and method.
+US4616261A	Method and apparatus for generating subliminal visual messages.
+US4699153A	System for assessing verbal psychobiological correlates.
+US4700068A	Apparatus and method for spatially characterizing and controlling a particle beam.
+US4717343A	Method of changing a persons behavior
+US4834701A	Apparatus for inducing frequency reduction in brain wave.
+US4858612A	Hearing device.
+US4877027A	Hearing system.
+US4924744A	Apparatus for generating sound through low frequency and noise modulation.
+US4958638A	Non-contact vital sign monitor.
+US5123899A	Method and system for altering consciousness.
+US5128765A	System for implementing the synchronized superimposition of subliminal signals.
+US5134484A	Superimposing method and apparatus useful for subliminal messages.
+US5135468A	Method and apparatus of varying the brain state of a person by means of an audio signal.
+US5151080A	Method and apparatus for inducing and establishing a changed state of consciousness.
+US5159703A	Silent subliminal presentation system.
+US5170381A	Method for mixing audio subliminal recordings.
+US5213562A	Method of inducing mental, emotional and physical states of consciousness including specific mental activity in human beings.
+US5221962A	Subliminal device having manual adjustment of perception level of subliminal messages.
+US5224864A	Method of recording and reproducing subliminal signals that are 180 degrees out of phase.
+US5245666A	Personal subliminal messaging system.
+US5270800A	Subliminal message generator.
+US5289438A	Method and system for altering consciousness.
+US5319735A	Embedded signalling.
+US5330414A	Brain wave inducing apparatus.
+US5356368A	Method and apparatus for inducing desired states of consciousness.
+US5392788A	Method and device for interpreting concepts and conceptual thought from brainwave data and for assisting for diagnosis of brainwave disfunction.
+US5507291A	Method and an associated apparatus for remotely determining information as to persons emotional state.
+US5539705A	Ultrasonic speech translator and communications systems.
+US5551879A	Dream state teaching machine.
+US5586967A	Method and recording for producing sounds and messages to achieve alpha and theta brainwave states and positive emotional states in humans.
+US5653462A	Vehicle occupant position and velocity sensor.
+US5774088A	Method and system for warning birds of hazards.
+US5782874A	Method and apparatus for manipulating nervous systems.
+US5788648A	Electroencephalographic apparatus for exploring responses to quantified stimuli.
+US5889870A	Acoustic heterodyne device and method.
+US5899922A	Manipulation of nervous systems by electric fields.
+US5935054A	Magnetic excitation of sensory resonances.
+US5954629A	Brain wave inducing system.
+US5954630A	FM theta-inducing audible sound and method device and recorded medium to generate the same.
+US5995954A	Method and apparatus for associative memory.
+US6006188A	Speech signal processing for determining psychological and physiological characteristics using a knowledge base.
+US6011991A	Communication system and method including brain wave analysis and or use of brain activity.
+US6017302A	Subliminal acoustic manipulation of nervous systems.
+US6052336A	Apparatus and method of broadcasting audible sound using ultrasonic sound as a carrier.
+US6081744A	Electric fringe field generator for manipulating nervous systems.
+US6091994A	Pulsative manipulation of nervous systems.
+US6135944A	Method of inducing harmonious states of being.
+US6167304A	Pulse variability in electric field manipulation of nervous systems.
+US6239705B1	Intra oral electronic tracking device.
+US6292688B1	Method and apparatus for analyzing nerological response to emotion inducing stimuli.
+US6426919B1	Portable hand held device for making humanly audible sounds responsive to the detecting of ultrasonic sounds.
+US6470214B1	Method and device for implementing the radio frequency hearing effect.
+US6487531B1	Signal injection coupling into the human vocal act for robust audible and inaudible voice recognition.
+US6488617B1	Method and device for producing a desired brain state.
+US6490480B1	Apparatus and methods for measuring autonomic nervous system function.
+US6506148B2	Nervous system manipulation by electromagnetic fields from monitors.
+US6559769B2	Early warning real-time security system.
+US6587729B2	Apparatus for audibly communicating speech using the radio frequency hearing effect.
+US6873261B2	Early warning near real time security system.
+US7282727B2	Electron beam directed energy device and methods of using same
+US7405834B1	Compensated coherent imaging for improved imaging and directed energy weapons applications.
+US7609001B2	Optical magnetron for high efficiency production of optical radiation and related methods of use.
+US7629918B2	Multifunctional radio frequency directed energy system
+US7674224B2	Method for incorporating brain wave entertainment into sound production.
+US7689272B2	Method for brain fingerprinting measurement assessment and analysis of brain function.
+US7811234B2	Remote sensing method and device.
+US8049173B1	Dual use radio frequency directed energy weapon and imagery
+US8088057B2	Apparatus and methods to improve sleep reduce pain and promote natural healing.
+US8194822B2	X-ray inspection based on scatter detection.
+US8362884B2	Radiant electromagnetic energy management
+US8579793B1	Apparatus to affect brainwave entrainment over premises power-line wiring.
+US8892208B2	Closed loop neural stimulation.
+US8965770B2	Detecting emotion in voice signals in a call center.
+US9420971B2	Extracorporeal devices and methods for facilitating cessation of undesired behaviors.
+US9433789B2	Method and system apparatus for remote neural modulation brain stimulation and feedback control.
+W01990012470A1	Subliminal audio and video processing for real time television.
+W01990015502A1	Method and apparatus for superimposed information upon video signals and the like.
+W01992003888A1	Subliminal device.
+W02015174879A1	Mm-wave radar vital signs detection apparatus and method of operation.
+US98579793B1	Apparatus to affect brainwave entrainment over premises power line wiring.
+
+PATENT SHIELDING FROM PROGRAM BASED RESEARCH	
+US6430443B1	Method and apparatus for treating auditory hallucinations.
+US20140039821A1	Method of scanning analyzing and identifying electromagnetic field sources.
+US5562597A	Method and apparatus for reducing physiological stress.
+US7297100B2	Device for magnetic and electric field shielding.
+W01995005128A1	Protection of living systems from electromagnetic fields.
+
